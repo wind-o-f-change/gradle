@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inno20" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inno20" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inno20" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="inno20" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="my category" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbrbqcYK6Twreb6XaxkrJWdSy0" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path" value="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\1" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="stc.inno20.dao" />
+      <recent name="stc.inno20" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\main\resources" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\main\java" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\test\java" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle" />
+      <recent name="D:\Teach\Inno\6.3. Инструменты сборки\gradle\src\test" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src\stc\inno20" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build --warning-mode all" />
+      <command value="gradle build -Xlint:deprecation" />
+      <command value="gradle build lint:deprecation" />
+      <command value="gradle build " />
+      <command value="gradle lint" />
+      <command value="gradle build --rerun-tasks" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.gradle [tasks]">
+    <configuration name="MainTest.main" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stc.inno.MainTest.main&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MobileDaoJdbcImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stc.inno.dao.MobileDaoJdbcImplTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradle [bye]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bye" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradle [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.gradle [build]" />
+      <item itemvalue="Gradle.MainTest.main" />
+      <item itemvalue="Gradle.MobileDaoJdbcImplTest" />
+      <item itemvalue="Gradle.gradle [bye]" />
+      <item itemvalue="Gradle.gradle [tasks]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.gradle [tasks]" />
+        <item itemvalue="Gradle.gradle [bye]" />
+        <item itemvalue="Gradle.MobileDaoJdbcImplTest" />
+        <item itemvalue="Gradle.MainTest.main" />
+        <item itemvalue="Gradle.gradle [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="" />
+      <created>1575636209674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575636209674</updated>
+      <workItem from="1575636214111" duration="13369000" />
+      <workItem from="1575828388763" duration="31000" />
+      <workItem from="1576065100393" duration="32000" />
+      <workItem from="1576065178394" duration="19000" />
+      <workItem from="1576065228298" duration="1231000" />
+      <workItem from="1576066481190" duration="9542000" />
+      <workItem from="1591623192176" duration="4156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591626557264">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1591626557264" />
+    <state width="1877" height="455" key="GridCell.Tab.0.bottom" timestamp="1591631550200">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1591631550200" />
+    <state width="1877" height="455" key="GridCell.Tab.0.center" timestamp="1591631550199">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1591631550199" />
+    <state width="1877" height="455" key="GridCell.Tab.0.left" timestamp="1591631550199">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1591631550199" />
+    <state width="1877" height="455" key="GridCell.Tab.0.right" timestamp="1591631550200">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1591631550200" />
+    <state x="667" y="288" width="585" height="534" key="find.popup" timestamp="1591626744031">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="667" y="288" width="585" height="534" key="find.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1591626744031" />
+    <state x="616" y="258" width="672" height="677" key="run.anything.popup" timestamp="1591631576818">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="616" y="258" width="672" height="677" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1591631576818" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/stc/inno/ConnectionManager/ConnectionManagerJdbcImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1575640226456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>stc.inno20.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/src$All_in_src.ic" NAME="All in src Coverage Results" MODIFIED="1575655252851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
